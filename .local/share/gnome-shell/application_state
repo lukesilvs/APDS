@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gcr-prompter.desktop" score="0" last-seen="1621603021"/>
+    <application id="org.gnome.Evolution-alarm-notify.desktop" score="1" last-seen="1621603061"/>
+    <application id="code_code.desktop" score="5727" last-seen="1621603106"/>
+    <application id="update-manager.desktop" score="0" last-seen="1621603111"/>
+  </context>
+</application-state>

@@ -1,0 +1,46 @@
+[Data Source]
+DisplayName=Holidays in South Africa
+Enabled=true
+Parent=9191897e61ac33f4f943e5ed19ec3b5ce3233b8a
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=lukesilver12234@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=events::https://apidata.googleusercontent.com/caldav/v2/cln2ssr14dk6ur39chgnig37e9nnas1eeon66obccln68obi5pjmurr7dhiisorfdk%40virtual/events/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=true
+Color=#16a765
+DisplayName=Holidays in South Africa
+EmailAddress=
+ResourcePath=/caldav/v2/cln2ssr14dk6ur39chgnig37e9nnas1eeon66obccln68obi5pjmurr7dhiisorfdk%40virtual/events/
+ResourceQuery=
+SslTrust=
+
+[Calendar]
+BackendName=caldav
+Color=#16a765
+Selected=true
+
+[Alarms]
+IncludeMe=true
+LastNotified=2021-03-06T13:13:42.653890Z
+
+[Offline]
+StaySynchronized=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30

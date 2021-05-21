@@ -1,0 +1,133 @@
+[2021-05-14 11:15:25.894] [exthost] [info] extension host started
+[2021-05-14 11:15:26.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-14 11:15:26.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-14 11:15:26.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-05-14 11:15:26.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-05-14 11:15:26.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-14 11:15:26.386] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-14 11:15:26.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-14 11:15:26.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/git/dist/main
+[2021-05-14 11:15:26.647] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-14 11:15:26.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-14 11:15:26.715] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"extensionId":{"value":"johnpapa.vscode-peacock","_lower":"johnpapa.vscode-peacock"},"activationEvent":"*"}
+[2021-05-14 11:15:26.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/johnpapa.vscode-peacock-3.9.1/dist/extension
+[2021-05-14 11:15:26.742] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2021-05-14 11:15:26.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/nrwl.angular-console-17.3.0/main.js
+[2021-05-14 11:15:28.488] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-05-14 11:15:28.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-05-14 11:15:28.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-14 11:15:28.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-05-14 11:15:29.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-14 11:15:29.460] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-05-14 11:15:32.288] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-14 11:15:32.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-14 11:15:34.974] [exthost] [info] eager extensions activated
+[2021-05-14 11:15:39.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-14 11:15:39.653] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-14 11:15:39.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-14 11:15:39.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-14 11:15:40.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-14 11:15:40.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-14 11:15:40.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-14 11:15:40.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-14 11:15:40.237] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-05-14 11:15:40.237] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-05-14 11:15:40.511] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-05-14 11:15:40.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-05-14 11:15:45.760] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-05-14 11:15:55.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-14 11:15:55.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-14 11:15:55.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-14 11:15:55.783] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-14 11:30:07.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-05-14 11:30:07.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-14 11:30:07.696] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:typescript"}
+[2021-05-14 11:30:07.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/angular.ng-template-12.0.0/index
+[2021-05-14 11:33:07.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser {"startup":false,"extensionId":{"value":"vscode.simple-browser","_lower":"vscode.simple-browser"},"activationEvent":"onOpenExternalUri:http"}
+[2021-05-14 11:33:07.958] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/simple-browser/dist/extension
+[2021-05-14 11:33:42.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-05-14 11:33:42.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/65/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-05-14 11:33:53.574] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.598] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at async Promise.all (index 0)
+	at async Object.provideHover (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/index.js:129604:61)
+[2021-05-14 11:33:53.641] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.641] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at async Promise.all (index 0)
+	at async Object.provideHover (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/index.js:129604:61)
+[2021-05-14 11:33:53.641] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.641] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async Promise.all (index 0)
+	at async Object.provideHover (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/index.js:129604:61)
+[2021-05-14 11:33:53.641] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.641] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at async Promise.all (index 0)
+	at async Object.provideHover (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/index.js:129604:61)
+[2021-05-14 11:33:53.641] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.645] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:1288:39
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async l.provideCodeLenses (/snap/code/65/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:158911)
+[2021-05-14 11:33:53.650] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-05-14 11:33:53.650] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-12.0.0/node_modules/vscode-languageclient/lib/common/client.js:1288:39
+	at async l.provideCodeLenses (/snap/code/65/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:158911)
+[2021-05-14 11:40:42.536] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-05-14 11:40:42.536] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.4)
+Debug Failure. Could not find symbol in specified module for code actions
+Error: Debug Failure. Could not find symbol in specified module for code actions
+    at getSymbolExportInfoForSymbol (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138043:29)
+    at Object.getImportCompletionAction (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138017:20)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119989:33)
+    at Object.getCompletionEntryDetails (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119953:30)
+    at Proxy.getCompletionEntryDetails (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/snap/code/65/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70680)
+	at dispatchResponse (/snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64555)
+	at dispatchMessage (/snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:63414)
+	at /snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62924
+	at fire (/snap/code/65/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+	at g.onLengthData (/snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:433224)
+	at Socket.<anonymous> (/snap/code/65/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:432872)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+                                                                                                                                                                               

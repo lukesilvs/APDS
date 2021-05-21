@@ -1,0 +1,9 @@
+[Info  - 15:57:13] Angular language server process ID: 2265
+[Info  - 15:57:14] Using typescript/lib/tsserverlibrary v4.1.5 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 15:57:14] Using @angular/language-service/bundles/ivy v11.2.7 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/@angular/language-service/bundles/ivy.js
+[Info  - 15:57:14] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 15:58:10] Angular language server process ID: 2459
+[Info  - 15:58:10] Using typescript/lib/tsserverlibrary v4.1.5 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 15:58:10] Using @angular/language-service/bundles/ivy v11.2.7 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/@angular/language-service/bundles/ivy.js
+[Info  - 15:58:10] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 15:58:19] Enabling Ivy language service for /home/luke/dev/NewProg/tsconfig.json.

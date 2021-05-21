@@ -1,0 +1,14 @@
+[2021-05-13 11:04:35.270] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/luke/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19
+[2021-05-13 11:04:35.429] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/luke/.vscode/extensions/esbenp.prettier-vscode-6.3.2
+[2021-05-13 11:04:35.647] [sharedprocess] [info] Deleted from disk eg2.vscode-npm-script /home/luke/.vscode/extensions/eg2.vscode-npm-script-0.3.19
+[2021-05-13 11:04:35.647] [sharedprocess] [info] Deleted from disk nrwl.angular-console /home/luke/.vscode/extensions/nrwl.angular-console-17.1.0
+[2021-05-13 11:04:35.701] [sharedprocess] [info] Deleted from disk angular.ng-template /home/luke/.vscode/extensions/angular.ng-template-11.2.9
+[2021-05-13 11:04:35.719] [sharedprocess] [info] Deleted from disk auchenberg.vscode-browser-preview /home/luke/.vscode/extensions/auchenberg.vscode-browser-preview-0.7.0
+[2021-05-13 11:04:35.740] [sharedprocess] [info] Deleted from disk ms-dotnettools.csharp /home/luke/.vscode/extensions/ms-dotnettools.csharp-1.23.9
+[2021-05-13 11:04:39.632] [sharedprocess] [info] Installing extension: angular.ng-template
+[2021-05-13 11:04:44.799] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/luke/.config/Code/CachedExtensionVSIXs/angular.ng-template-12.0.0
+[2021-05-13 11:04:59.899] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.f268c658-d935-4f07-9df3-536662223687: angular.ng-template
+[2021-05-13 11:04:59.921] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/angular.ng-template-12.0.0
+[2021-05-13 11:04:59.935] [sharedprocess] [info] Installation completed. angular.ng-template
+[2021-05-13 11:04:59.974] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2021-05-13 11:05:12.907] [sharedprocess] [info] Starting to clean up unused language packs.

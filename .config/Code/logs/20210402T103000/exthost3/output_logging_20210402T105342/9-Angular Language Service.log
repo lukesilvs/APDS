@@ -1,0 +1,10 @@
+[Info  - 10:53:45] Angular language server process ID: 2828
+[Info  - 10:53:45] Using typescript/lib/tsserverlibrary v4.1.5 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 10:53:45] Using @angular/language-service/bundles/ivy v11.2.7 from /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/@angular/language-service/bundles/ivy.js
+[Info  - 10:53:45] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 10:54:17] Enabling Ivy language service for /home/luke/dev/NewProj/tsconfig.json.
+[Error - 10:55:50] No config file for /home/luke/dev/NewProj/src/app/order-create/order-create.component.spec.ts
+[Error - 10:56:37] No config file for /home/luke/dev/NewProj/src/app/order-create/order-create.component.spec.ts
+[Error - 10:56:38] No config file for /home/luke/dev/NewProj/src/app/order-create/order-create.component.spec.ts
+[Error - 10:56:39] No config file for /home/luke/dev/NewProj/src/app/order-create/order-create.component.spec.ts
+[Error - 10:57:09] No config file for /home/luke/dev/NewProj/src/app/order-create/order-create.component.spec.ts

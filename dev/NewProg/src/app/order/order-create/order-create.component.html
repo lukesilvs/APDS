@@ -1,0 +1,34 @@
+<h5>Create Your Order Here Please</h5>
+<mat-card>
+<form class="login" (submit)=OnAddOrder(postOrder) #postOrder="ngForm">
+  <!--Java object is automatically created by angular with all input fields, post order is a local reference that allows us to access the values in an object-->
+<mat-form-field>
+  <input required matInput type="text" ngModel name="enteredUserName"
+  placeholder= "userName"
+  required
+  maxlength="8"
+  #enteredUserName="ngModel"/>
+  
+  <mat-error *ngIf="enteredUserName.invalid">{{enteredUserNameError}}</mat-error>
+</mat-form-field>
+  <br>
+<mat-form-field>
+  <input required matInput type="email" pattern="^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$}"
+  ngModel name="enteredEmail" placeholder="Email Address" required/>
+</mat-form-field>
+  <br>
+<mat-form-field>
+  <textarea required matInput ngModel name= "enteredOrder"
+  required
+  maxlength="50"></textarea>
+</mat-form-field>
+<br>
+<button mat-raised-button ="submit">Order Now</button>
+</form>
+
+
+</mat-card>
+<hr>
+
+
+<!--Form to submit an order styled by the mat-form field, has an event listener and method to be called from order-create component class-->

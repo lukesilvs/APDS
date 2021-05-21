@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=9191897e61ac33f4f943e5ed19ec3b5ce3233b8a
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=lukesilver12234@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

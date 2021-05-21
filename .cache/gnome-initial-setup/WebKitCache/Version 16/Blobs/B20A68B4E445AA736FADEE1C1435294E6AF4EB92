@@ -1,0 +1,80 @@
+this._G=this._G||{};(function(_){var window=this;
+try{
+_.k("sy19");
+_.tT=function(){return"Try another way"};_.uT=function(){return"Enter code"};
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+_.k("sy1a");
+_.vT=function(){return(0,_.D)("Account recovery")};_.wT=function(){return"Verify that it\u2019s you"};
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+_.k("sy1b");
+_.d3a=function(a){a=a=a||{};return _.c3a(a.En)};_.c3a=function(a){return _.Yr(a,1)?"Enter your password":"Enter a password"};_.H("Sb","",0,function(){return"Wrong password. Try again or click \u2018Forgot password\u2019 to reset it."});_.H("Tb","",0,function(){return"Forgot password?"});
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+_.k("sy1d");
+_.xT=function(a,b){b=b&&(b.ha||b);var c=a.locale;a="";var d=c=_.Zr(_.Xr("en,en-US,"),c+",");d&&(d=b.pb(),d=_.F(null==d?null:d.getGivenName()));!d&&(d=!c)&&(d=b.pb(),d=_.F(null==d?null:d.Dc()));return a=d?a+(c?"Hi "+b.pb().getGivenName():""+b.pb().Dc()):a+"Welcome"};
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+var e3a;_.yT=function(a){return _.A(a,19)};e3a=function(){return(0,_.D)("Unavailable because of too many failed attempts. Try again in a few hours.")};_.k("sy1e");
+var CT;
+_.AT=function(a,b){var c=a.oa&&(a.oa.ha||a.oa),d=a.wa&&(a.wa.ha||a.wa),e=a.Oa,f=a.Ya,g=a.title,m=a.Ob,p=a.Ve,t=a.Xd,w=a.Vj,y=a.description,B=a.eb,G=a.xF,J=a.Xa,M=a.Gb,Q=a.Gr,T=a.Rb,da=a.qg,ha=a.Mb,Ba=a.Mj,Ga=a.Cy,ab=a.Ei,xb=a.tD,wb=a.jQ,kb=a.Fi,pb=a.uD,Wa=a.kQ,va=a.Xs,Na=a.Xe,La=a.Ed,Ka=a.mQ,wa=a.Va,rb="",Qa=d.kb(),cb=null==Qa?null:_.yT(Qa);null==Qa||Qa.Mg();var Ib=null!=La?La:!0;Qa=c;La=d;Qa=Qa&&(Qa.ha||Qa);La=La&&(La.ha||La);p=_.F(p);if(!p){if(p=_.jE(Qa))p=_.C(Qa,_.XD,47),p=1==(null==p?null:_.r(p,
+1)),p||(p=_.gE(Qa),p=2==(null==p?null:_.r(p,2))),p=!p,p||(Qa=_.C(Qa,_.aE,56),Qa=null==Qa?null:_.uj(Qa,1,!0),p=null!=Qa?Qa:!0);p=p&&!_.iH(La)&&!_.uj(La,50,!1)}var Db=p?"true":"";La=d.pb();La=null==La?null:La.xc();Qa=d.pb();Qa=null==Qa?null:_.Uw(Qa);if(p=Ib)p=d.Nd(),null==p?p=null:(p=_.cC(p),p=null==p?null:_.r(p,6)),p=_.F(p);Db=_.Zr(_.Xr(Db),"true");Ib=(0,_.cs)('data-use-configureable-escape-action="'+_.L(Ib?"true":"false")+'"');var Lb=(Lb=d)&&(Lb.ha||Lb);cb?(Lb=Lb.kb(),Lb=_.f3a(b,null==Lb?null:_.r(Lb,
+25))):Lb="";Lb=""+_.GF({Ea:"INM6z",Af:"warning",Vb:(0,_.cs)('aria-live="assertive" aria-atomic="true"'),heading:"Too many failed attempts",details:(0,_.K)(""+Lb),qn:!cb},b);Lb=(0,_.D)(Lb);Lb=(0,_.K)(""+Lb);g=(0,_.K)(""+(g?_.E(g):_.g3a(a,b)));m=(0,_.K)(""+(null!=m?_.E(m):_.zT(a.wa,a.oa)));var ib=a.wa;var hc=a.heading;ib=ib&&(ib.ha||ib);var jb="";ib=ib.kb();_.Yr(null==ib?null:ib.getContext(),"TWO_STEP_VERIFICATION")?(null!=hc?(_.E(hc),hc="2-Step Verification: "+_.E(hc),hc=(0,_.D)(hc),hc=jb+hc):hc=jb+
+"2-step Verification",jb=hc):null!=hc&&(jb+=_.E(hc));hc=(0,_.D)(jb);hc=(0,_.K)(""+hc);ib=(ib=a.wa)&&(ib.ha||ib);jb="";ib=ib.kb();if(ib=null==ib?null:_.r(ib,14)){var Zb='<div jsname="'+_.L("txrIk")+'">',Xb="";switch(ib){case 0:Xb+="Something isn\u2019t right";break;case 1:Xb+="Suspicious activity has been detected on your account";break;case 2:Xb+="Google couldn\u2019t detect a screen lock on your phone. Enter your password for extra security.<p>To skip your password next time, add a screen lock to your phone.</p>";
+break;case 3:Xb+="Your screen lock settings changed recently. Enter your password for extra security.";break;case 5:Xb+="Your phone doesn\u2019t have Touch ID turned on. Enter your password for extra security.<p>To skip your password next time, turn on Touch ID.</p>";break;case 7:Xb+="Your device has been unlocked for too long. Enter your password for extra security.";break;case 8:Xb+="Google prompts are temporarily unavailable";break;case 9:Xb+="Google prompts are disabled at the moment because there\u2019s something unusual about how you\u2019re signing in";
+break;case 10:Xb+="Couldn\u2019t send a Google prompt because your phone can\u2019t be reached";break;case 11:Xb+="Couldn\u2019t send a Google prompt because we couldn\u2019t find an eligible device";break;case 12:Xb+="Couldn\u2019t send a Google prompt because we couldn\u2019t find an approved device";break;case 13:Xb+="Couldn\u2019t send a Google prompt because you\u2019ve sent too many prompts. Try again later.";break;case 14:Xb+="Google prompts aren't supported";break;case 15:Xb+="Security codes are temporarily unavailable";
+break;case 16:Xb+="Security codes are disabled at the moment because there\u2019s something unusual about how you\u2019re signing in";break;case 17:Xb+="Couldn\u2019t send a security code because we couldn\u2019t find an eligible device";break;case 18:Xb+="Couldn\u2019t send a security code because we couldn\u2019t find an approved device";break;case 19:Xb+="You\u2019ve entered too many wrong codes. Try again later.";break;case 20:Xb+="Security codes aren't supported";break;case 21:Xb+="Your device is not a phone. Enter your password for extra security.";
+break;case 22:Xb+="Your device isn\u2019t approved. Enter your password for extra security.";break;case 23:Xb+='If you\u2019ve reached this page in error, please <a href="https://accounts.google.com/Logout">click here</a> to sign out and then try to sign in again.'}ib=(0,_.D)(Xb);ib=Zb+ib+"</div>"}else ib="";jb=(0,_.D)(jb+ib);y=(0,_.K)(""+jb+_.E(null!=y?y:""));B=""+_.E(null!=B?B:"");!Ka&&(null!=G?G:1)?(jb=(jb=a.wa)&&(jb.ha||jb),G="",jb=jb.kb(),_.Yr(null==jb?null:jb.getContext(),"TWO_STEP_VERIFICATION")&&
+(null==jb?0:_.A(jb,11))?(ib=_.A(jb,13),jb=_.A(jb,12),jb=(0,_.D)(_.VVa({label:ib?"Don\u2019t ask again on this device":"Remember this device for 30 days",name:"",Ea:"mFUPlc",Hd:jb},b))):jb="",G=(0,_.D)(G+jb)):G="";rb+=_.vI(_.Wr({Va:wa,Oa:e,Ya:"jiqeKb:ZCwQbe;u3KAb:ZCwQbe;cLkKDf:n4vmRb;DPVjO:tVBJG;eyyw5c:gVmDzc;rcuQ6b:rcuQ6b;"+(null!=f?f:""),content:(0,_.K)(""+_.wI({oa:c,Ea:"lr9nlf",Gr:Q,hd:{hc:null!=La?La:"",identifier:null!=Qa?Qa:""},Ve:Db,Vb:Ib,zf:Lb,title:g,Ob:m,Xd:t,heading:hc,Vj:w,description:y,
+eb:(0,_.K)(B+G),b5:cb&&!Ka,Mj:Ba,Mb:ha,$Z:p?_.r(_.cC(d.Nd()),6):0,Cy:Ga,Y4:cb,Xa:J,Gb:M,Vo:cb,Rb:T,qg:da,p5:cb,Ei:ab,tD:xb,jQ:wb,Fi:kb,uD:pb,kQ:Wa,Xe:Na,Xs:va},b))},a),b);return(0,_.D)(rb)};_.f3a=function(a,b){var c="";switch(b){case 6:c+=e3a();break;default:c+=e3a()}b=""+_.U({text:(0,_.K)(c)},a);b+=_.U({text:(0,_.K)('<button jsname="'+_.L("ponBce")+'" id="assistiveActionOutOfQuota" type="button" jsaction="click:'+_.L("gVmDzc")+';">'+_.E(_.tT())+"</button>")},a);return(0,_.D)(b)};
+_.g3a=function(a,b){var c="",d=(a.wa&&(a.wa.ha||a.wa)).kb();if(null==d)var e=null;else e=_.VB(d),e=null==e?null:_.r(e,1);if(null!=(null==d?null:_.C(d,_.EB,20)))b=c,a=(a=a.wa)&&(a.ha||a),a=a.kb(),a=null==a?null:_.C(a,_.EB,20),a="Approve request for "+(_.ft(_.E(_.r(a,4)))+(" ("+(_.ft(_.E(_.r(a,2)))+") from Google Play"))),a=(0,_.D)(a),c=b+a;else if(3==e)c+=_.vT();else if(e)c+=_.E(_.xT(b,a.wa));else switch(d=null==d?null:d.getContext(),_.ua(d)?d.toString():d){case "ACCOUNT_RECOVERY":c+=_.vT();break;
+case "USERNAME_RECOVERY":a=c;b=(0,_.D)("Having trouble signing in?");c=a+b;break;case "TWO_STEP_VERIFICATION":a=c;b=(0,_.D)("2-step Verification");c=a+b;break;case "FIRST_AUTH_FACTOR":c+=_.E(_.xT(b,a.wa));break;case "REAUTH":c+=_.E(_.wT());break;default:c+=_.E(_.wT())}return(0,_.D)(c)};
+_.zT=function(a,b){a=a&&(a.ha||a);b=b&&(b.ha||b);var c="";a=a.kb();var d=null==(null==a?null:_.C(a,_.EB,20));d&&(null==a?d=null:(d=_.VB(a),d=null==d?null:_.r(d,1)),d=null==d);if(d)switch(a=null==a?null:a.getContext(),_.ua(a)?a.toString():a){case "USERNAME_RECOVERY":b=c;c=(0,_.D)("Please provide additional information to aid in the recovery process.");c=b+c;break;case "LOGIN_CHALLENGE":b="This device isn\u2019t recognised. For your security, Google wants to make sure that it\u2019s really you."+(_.kE(b)?
+' <a href="https://support.google.com/accounts/answer/7162782" target="_blank">'+_.zI()+"</a>":"");b=(0,_.D)(b);c+=b;break;case "REAUTH":b=c;c=(0,_.D)("There is something unusual about your activity. For your security, Google wants to make sure that it\u2019s really you.");c=b+c;break;case "TWO_STEP_VERIFICATION":b=c;c=(0,_.D)("This extra step shows that it\u2019s really you trying to sign in");c=b+c;break;case "ACCOUNT_RECOVERY":b=c;c=(0,_.D)("This helps to show that this account really belongs to you");
+c=b+c;break;case "COLLAB_ACCOUNT_SIGN_IN":break;case "FIRST_AUTH_FACTOR":break;case "WARNING":break;default:b=c,c=(0,_.D)("To help keep your email, photos and other content safer, complete the task below."),c=b+c}return(0,_.D)(c)};
+_.BT=function(a,b){var c=a.wa&&(a.wa.ha||a.wa),d="",e=c.kb();e=null==e?null:_.C(e,_.CA,26);_.F(null==e?null:_.r(e,5))&&0!=_.r(e,5)?c=e:(c=c.Nd(),c=null==c?null:_.cC(c));a=(a=_.Wr({t2:c},a))||{};c=a.t2;e=a.Mb;var f=a.Cva;c=c&&(c.ha||c);b=_.F(a.Ed)&&_.F(c)?_.h3a(b,c,f):e?e:_.QI();return d+b};
+_.h3a=function(a,b,c){b=b&&(b.ha||b);var d="",e=null==b?null:_.r(b,5),f=null==b?null:_.r(b,7);switch(e){case 1:case 2:case 3:case 4:a=c?_.F(f)&&0!=f?CT(a,f):_.QI():1==e?CT(a,_.r(_.C(b,_.DA,1),1)):2==e?CT(a,_.r(_.C(b,_.FA,3),1)):3==e?CT(a,_.r(_.C(b,_.EA,2),1)):4==e?CT(a,_.r(_.C(b,_.GA,4),1)):"",d+=a}return d};
+CT=function(a,b){var c="";switch(b){case 1:c+=_.QI();break;case 2:c+="Skip";break;case 3:b=c;a=_.I("Tb","",!1)(null,a);c=b+a;break;case 4:c+="More ways to sign in";break;case 16:c+="More ways to verify";break;case 5:c+="Having trouble?";break;case 6:c+="Phone unavailable?";break;case 7:c+="I don\u2019t have my phone";break;case 8:c+=_.tT();break;case 9:c+="Try another way to sign in";break;case 10:c+="Don\u2019t remember?";break;case 11:c+="Sign in another way";break;case 12:c+="Use password or other options";
+break;case 13:c+="Can\u2019t sign in?";break;case 14:c+="Recover your account";break;case 15:c+="Need help recovering your account?";break;case 17:c+="Need more help?"}return c};
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+_.k("sy30");
+_.H("nc","",0,function(){return"Enter your password"});_.H("nc","unicornedu",0,function(){return"School password"});_.H("nc","unicorneducros",0,function(){return"School password"});
+var ebb={Qa:function(a,b){var c=a.Ra;a=_.D;c={oa:c.oa,wa:c.wa,ib:c.ib,Vc:c.Vc};var d=c.oa&&(c.oa.ha||c.oa),e=c.wa&&(c.wa.ha||c.wa),f=c.ib&&(c.ib.ha||c.ib),g=c.Vc&&(c.Vc.ha||c.Vc),m="";_.Yr(_.r(e.Nd(),6),"2")&&e.kb().getContext();var p=_.r(_.VB(e.kb()),1),t="";if(null==f?0:_.A(f,24))t+="Enter your password";f=e.kb();if(_.F(null==g?null:g.Dc())&&_.Yr(_.r(d,8),"identifier")){if(null==d)var w=null;else d=_.hE(d),w=null==d?null:_.A(d,27);d=null==g?null:g.Dc();var y=null==g?null:_.rj(g,7)[0],B=null==g?
+null:_.rj(g,6)[0];g="";w&&(w="To continue, Google will share your name, email address, language preference and profile picture with "+(_.E(d)+"."),g=g+w+" ");_.F(y)&&_.F(B)?(w="Before using this app, you can review "+(_.E(d)+('\u2019s <a href="'+(_.L(_.Zs(y))+'" target="_blank">privacy policy</a> and <a href="'+(_.L(_.Zs(B))+'" target="_blank">Terms of Service</a>.')))),_.E(d),_.L(_.Zs(y)),_.L(_.Zs(B)),g+=w):y?(B="Before using this app, you can review "+(_.E(d)+('\u2019s <a href="'+(_.L(_.Zs(y))+
+'" target="_blank">privacy policy</a> and Terms of Service.'))),_.E(d),_.L(_.Zs(y)),g+=B):B&&(y="Before using this app, you can review "+(_.E(d)+('\u2019s privacy policy and <a href="'+(_.L(_.Zs(B))+'" target="_blank">Terms of Service</a>.'))),_.E(d),_.L(_.Zs(B)),g+=y);d=""+_.U({text:(0,_.K)(g)},b);d=(0,_.D)(d)}else d="";y=(0,_.bs)("/signin/v2/challenge/password/empty");g=(g=c.wa)&&(g.ha||g);w=B="";var G=_.eH(g);if(null==G?0:_.YG(G)){G=_.eH(g);G=null==G?null:_.YG(G);for(var J=G.length,M=0;M<J;M++){var Q=
+G[M];w+=_.Yr(_.Uw(_.C(Q,_.Sw,5)),_.kH(g))&&_.A(Q,3)?"true":""}}(_.F(w)||_.Yr(g.kb().getContext(),"REAUTH"))&&3!=_.r(_.VB(g.kb()),1)&&(w="",w=_.A(_.VB(g.kb()),4)?w+"Let\u2019s see if you remember your password":2301==_.r(g.kb(),27)?w+"To supervise your child\u2019s Google Account, you must provide consent by confirming your password.":w+"To continue, first verify that it's you",B+=_.U({text:w},b));g=(0,_.D)(B);g=(0,_.K)(""+g);var T;G=c.oa&&(c.oa.ha||c.oa);B=c.wa&&(c.wa.ha||c.wa);w="";_.r(_.VB(B.kb()),
+1);_.iE(G)?(J=J={name:"identifier",Ea:"KKx9x",id:"hiddenEmail",value:_.Yr(_.kH(B),"")?B.pb()?""+_.Uw(B.pb()):"":_.kH(B)},G=_.D,J=J||{},J=(0,_.D)(_.I("J","",!0)(J,b)),G=G(J)):G="";G+=_.UI({name:"identifierInput",value:_.kH(B),id:"identifierId"},b);M=(M=c.oa)&&(M.ha||M);J="";Q=_.C(M,_.sA,35);if(null==Q?0:_.Xd(Q,_.tA,1)){M=_.C(M,_.sA,35);M=null==M?null:_.Xd(M,_.tA,1);Q=M.length;for(var da=0;da<Q;da++){var ha=M[da],Ba=_.r(ha,1);switch(_.ua(Ba)?Ba.toString():Ba){case "rart":J+=_.UI({name:"rart",value:ha.Fa()},
+b);break;case "continue":J+=_.UI({name:"continue",value:ha.Fa()},b)}}}J=(0,_.D)(J);G+=J;J=c.wa;M=c.ib;J=J&&(J.ha||J);M=M&&(M.ha||M);Q="";null==J?da=null:(da=_.iH(J),da=null==da?null:da.jf());if(3==_.r(_.VB(J.kb()),1))Q+=_.U({text:"Enter the last password that you remember using with this Google Account"},b);else if(null==da?0:_.Uw(da))J=Q,da=null==da?null:da.getGivenName(),M=_.A(M,24),Q="",da?M?(da='When you enter your password, you confirm that you agree to the <a href="#" role="button" jsname="'+
+(_.L("CkSUlf")+'" tabindex="0">parental consent</a> and want to create a Google Account for '+(_.E(da)+".")),Q+=da):(ha="To help "+(_.E(da)+" with what\u2019s next, first verify that it\u2019s you"),_.E(da),Q+=ha):M?(da='When you enter your password, you confirm that you agree to the <a href="#" role="button" jsname="'+(_.L("CkSUlf")+'" tabindex="0">parental consent</a> and want to create a Google Account for your child.'),Q+=da):Q+="To help your child with what\u2019s next, first verify that it\u2019s you",
+Q=""+_.U({Ea:"G0bXcb",text:(0,_.K)(Q)},b),M&&(M='Next, Google will check your Google Account info to verify that you\u2019re a parent. <a href="#" role="button" jsname="'+(_.L("L6M1Fb")+'" tabindex="0">'+_.zI()+"</a>"),Q+=_.U({Ea:"qgVCZ",text:(0,_.K)(M)},b)),M=(0,_.D)(Q),Q=J+M;J=(0,_.D)(Q);G+=J;J=c.oa;da=c.wa;J=J&&(J.ha||J);da=da&&(da.ha||da);Q="";M=""+_.I("mc","",!0)(null,b);da=_.r(_.VB(da.kb()),1);ha=_.ZD(_.fE(J));3==da?T="Enter last password":T=_.I("nc",ha,!0)(null,b);Q+=_.qI({label:T,name:"password",
+bv:"password",Ea:"vZSTIf",Lz:!0,isVisible:_.Yr(M,"true")?!0:!1,autocomplete:_.iE(J)?"current-password":"off"},b);T=(0,_.D)(Q);w+=G+T+_.uQ({xu:_.F(B.kb())&&_.F(_.C(B.kb(),_.FB,5001))&&_.F(_.C(B.kb(),_.FB,5001).Wh())&&_.F(_.C(B.kb(),_.FB,5001).Wh().getToken())?_.C(B.kb(),_.FB,5001).Wh().getToken():"",Ea:"Si5T8b"},b);T=(0,_.D)(w);m+=_.AT(_.Wr({Va:3==p?"HYYfb":"b5STy",Xs:y,Oa:"Ka7I6",Ya:"click:vBw6I(preventDefault=true|L6M1Fb),EtG4V(preventDefault=true|CkSUlf);C73E2d:gVmDzc;",description:g,eb:(0,_.K)(""+
+T),title:(0,_.K)(t),Xa:_.AI(),Gb:"passwordNext",Rb:_.A(_.VB(e.kb()),4)?"Cancel":"",Mj:_.Yr(_.r(e.Nd(),6),"2")||3==_.r(_.VB(e.kb()),1)?"":"forgotPassword",Mb:(null==f?0:_.yT(f))?"":_.BT(_.Wr({Ed:!0},c),b),Xd:""+_.I("jc","",!0)({En:p},b),heading:""+_.I("kc","",!0)({En:p},b),Vj:(0,_.cs)(""+_.I("lc","",!0)({En:p},b)),Xe:(0,_.K)(""+d)},c),b);b=(0,_.D)(m);return a(b)},Ta:_.Z({Ra:_.CQ}),title:"ignore"};_.tAa.$(ebb);_.uAa.$(ebb);_.vAa.$(ebb);
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+try{
+_.k("pwd_view");
+
+_.l();
+
+}catch(e){_._DumpException(e)}
+})(this._G);
+// Google Inc.

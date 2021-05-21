@@ -1,0 +1,34 @@
+[2021-04-02 10:30:10.292] [exthost] [info] extension host started
+[2021-04-02 10:30:11.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-02 10:30:11.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-02 10:30:11.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-04-02 10:30:11.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-02 10:30:11.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-04-02 10:30:11.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-04-02 10:30:11.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-04-02 10:30:11.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-02 10:30:11.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-04-02 10:30:11.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-04-02 10:30:11.702] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2021-04-02 10:30:11.714] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/eg2.vscode-npm-script-0.3.18/dist/extension
+[2021-04-02 10:30:11.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-02 10:30:11.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-02 10:30:11.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-02 10:30:11.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-02 10:30:11.989] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-02 10:30:11.995] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-02 10:30:12.355] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-04-02 10:30:12.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-04-02 10:30:12.533] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"extensionId":{"value":"johnpapa.vscode-peacock","_lower":"johnpapa.vscode-peacock"},"activationEvent":"*"}
+[2021-04-02 10:30:12.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/johnpapa.vscode-peacock-3.9.1/dist/extension
+[2021-04-02 10:30:12.592] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2021-04-02 10:30:12.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/nrwl.angular-console-17.1.0/main.js
+[2021-04-02 10:30:14.589] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-04-02 10:30:14.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-04-02 10:30:18.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-02 10:30:18.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-04-02 10:30:19.267] [exthost] [info] extension host terminating: parent process 1599 does not exist anymore: kill ESRCH (code: ESRCH) (errno: ESRCH)
+[2021-04-02 10:30:19.319] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-02 10:30:19.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-02 10:30:20.600] [exthost] [info] eager extensions activated
+[2021-04-02 10:30:20.801] [exthost] [info] exiting with code 0

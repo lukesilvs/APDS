@@ -1,0 +1,15 @@
+# This file is written by xdg-user-dirs-update
+# If you want to change or add directories, just edit the line you're
+# interested in. All local changes will be retained on the next run.
+# Format is XDG_xxx_DIR="$HOME/yyy", where yyy is a shell-escaped
+# homedir-relative path, or XDG_xxx_DIR="/yyy", where /yyy is an
+# absolute path. No other format is supported.
+# 
+XDG_DESKTOP_DIR="/home/luke/Desktop"
+XDG_DOWNLOAD_DIR="/home/luke/Downloads"
+XDG_TEMPLATES_DIR="/home/luke/Templates"
+XDG_PUBLICSHARE_DIR="/home/luke/Public"
+XDG_DOCUMENTS_DIR="/home/luke/Documents"
+XDG_MUSIC_DIR="/home/luke/Music"
+XDG_PICTURES_DIR="/home/luke/Pictures"
+XDG_VIDEOS_DIR="/home/luke/Videos"

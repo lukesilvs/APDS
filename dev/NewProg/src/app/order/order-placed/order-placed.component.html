@@ -1,0 +1,11 @@
+<mat-accordion>
+  <mat-expansion-panel *ngFor="posts.length">
+    <!--creates a temporary variable called post and loops through the size of the posts array-->
+    <mat-expansion-panel-header>
+      {{post.username}}
+      <!--string interpolation-placeholders are replaced with their corrospondiong values-->
+    </mat-expansion-panel-header>
+    {{post.orderDetails}}
+  </mat-expansion-panel>
+</mat-accordion>
+<p *ngIf="orders.length>=0">No orders created yet</p>

@@ -1,0 +1,39 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/luke
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dev/NewProg/server.js
+> git ls-files --stage -- /home/luke/dev/NewProg/server.js
+> git show --textconv :dev/NewProg/backend/app.js
+> git ls-files --stage -- /home/luke/dev/NewProg/backend/app.js
+> git show --textconv :dev/NewProg/server.js
+> git ls-files --stage -- /home/luke/dev/NewProg/server.js
+> git show --textconv :dev/NewProg/backend/app.js
+> git ls-files --stage -- /home/luke/dev/NewProg/backend/app.js
+> git show --textconv :dev/NewProg/server.js
+> git ls-files --stage -- /home/luke/dev/NewProg/server.js
+> git check-ignore -v -z --stdin
+> git show --textconv :dev/NewProg/src/app/order/order.service.ts
+> git ls-files --stage -- /home/luke/dev/NewProg/src/app/order/order.service.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.cache/evolution/calendar/5c5630b33877ad381baa48d3ddfd4d2520e54d04/cache.db
+> git ls-tree -l HEAD -- /home/luke/.cache/evolution/calendar/5c5630b33877ad381baa48d3ddfd4d2520e54d04/cache.db
+fatal: Not a valid object name HEAD
+> git ls-tree -l HEAD -- /home/luke/.cache/evolution/calendar/5c5630b33877ad381baa48d3ddfd4d2520e54d04/cache.db
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master

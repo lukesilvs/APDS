@@ -1,0 +1,46 @@
+[2021-05-12 15:56:55.566] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-12 15:56:56.746] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/luke/.vscode/extensions/esbenp.prettier-vscode-6.3.1
+[2021-05-12 15:56:57.198] [sharedprocess] [info] Deleted from disk eg2.vscode-npm-script /home/luke/.vscode/extensions/eg2.vscode-npm-script-0.3.18
+[2021-05-12 15:57:02.794] [sharedprocess] [info] Installing extension: angular.ng-template
+[2021-05-12 15:57:02.803] [sharedprocess] [info] Installing extension: auchenberg.vscode-browser-preview
+[2021-05-12 15:57:02.826] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-05-12 15:57:02.845] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2021-05-12 15:57:02.848] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-05-12 15:57:02.849] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2021-05-12 15:57:02.859] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2021-05-12 15:57:06.671] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script undefined
+[2021-05-12 15:57:08.027] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp undefined
+[2021-05-12 15:57:11.586] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.59f0977a-efc1-4f4d-9cfe-2104c6a644bc: eg2.vscode-npm-script
+[2021-05-12 15:57:11.640] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.8fe9f4fc-740a-4c4b-b5e5-50ba3ae9a8ed: ms-dotnettools.csharp
+[2021-05-12 15:57:11.777] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/eg2.vscode-npm-script-0.3.21
+[2021-05-12 15:57:11.793] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
+[2021-05-12 15:57:12.117] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/ms-dotnettools.csharp-1.23.11
+[2021-05-12 15:57:12.125] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2021-05-12 15:57:12.222] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2021-05-12 15:57:12.489] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2021-05-12 15:57:13.169] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-05-12 15:57:14.171] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.bfbc58f1-fbdf-4ce3-af46-e40ccc74d373: dbaeumer.vscode-eslint
+[2021-05-12 15:57:14.214] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/dbaeumer.vscode-eslint-2.1.20
+[2021-05-12 15:57:14.230] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-05-12 15:57:14.300] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-05-12 15:57:17.201] [sharedprocess] [info] Downloaded extension: nrwl.angular-console undefined
+[2021-05-12 15:57:17.225] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-05-12 15:57:21.515] [sharedprocess] [info] Downloaded extension: auchenberg.vscode-browser-preview undefined
+[2021-05-12 15:57:24.620] [sharedprocess] [info] Downloaded extension: angular.ng-template undefined
+[2021-05-12 15:57:29.290] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-12 15:57:33.046] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.7c066798-5819-455d-93b0-12a32cd51170: nrwl.angular-console
+[2021-05-12 15:57:33.195] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/nrwl.angular-console-17.3.0
+[2021-05-12 15:57:33.295] [sharedprocess] [info] Installation completed. nrwl.angular-console
+[2021-05-12 15:57:33.451] [sharedprocess] [info] Extensions installed successfully: nrwl.angular-console
+[2021-05-12 15:57:35.160] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.2ff9de1c-e0d3-46e2-aebe-494311fa92a1: esbenp.prettier-vscode
+[2021-05-12 15:57:35.447] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/esbenp.prettier-vscode-6.4.0
+[2021-05-12 15:57:35.457] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-05-12 15:57:37.205] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-05-12 15:57:40.670] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.623b692a-cb12-48a5-9c35-436e54abf93a: angular.ng-template
+[2021-05-12 15:57:41.864] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.5ea75dbc-95ae-41d5-9b40-183a8ca5d2a3: auchenberg.vscode-browser-preview
+[2021-05-12 15:57:50.083] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/auchenberg.vscode-browser-preview-0.7.1
+[2021-05-12 15:57:50.083] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/angular.ng-template-11.2.14
+[2021-05-12 15:57:50.087] [sharedprocess] [info] Installation completed. angular.ng-template
+[2021-05-12 15:57:50.087] [sharedprocess] [info] Installation completed. auchenberg.vscode-browser-preview
+[2021-05-12 15:57:56.015] [sharedprocess] [info] Extensions installed successfully: auchenberg.vscode-browser-preview
+[2021-05-12 15:57:56.255] [sharedprocess] [info] Extensions installed successfully: angular.ng-template

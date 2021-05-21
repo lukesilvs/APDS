@@ -1,0 +1,75 @@
+[2021-04-05 16:21:01.891] [exthost] [info] extension host started
+[2021-04-05 16:21:02.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-05 16:21:02.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-05 16:21:02.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-04-05 16:21:02.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-04-05 16:21:02.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2021-04-05 16:21:02.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-05 16:21:02.413] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:typescript"}
+[2021-04-05 16:21:02.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/angular.ng-template-11.2.9/index
+[2021-04-05 16:21:03.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-05 16:21:03.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-05 16:21:03.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-05 16:21:03.031] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-05 16:21:03.063] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-04-05 16:21:03.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-04-05 16:21:03.077] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"extensionId":{"value":"johnpapa.vscode-peacock","_lower":"johnpapa.vscode-peacock"},"activationEvent":"*"}
+[2021-04-05 16:21:03.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/johnpapa.vscode-peacock-3.9.1/dist/extension
+[2021-04-05 16:21:03.083] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2021-04-05 16:21:03.089] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/nrwl.angular-console-17.1.0/main.js
+[2021-04-05 16:21:03.407] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-04-05 16:21:03.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-04-05 16:21:03.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-04-05 16:21:03.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-04-05 16:21:04.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-05 16:21:04.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-04-05 16:21:05.017] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-05 16:21:05.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-05 16:21:05.624] [exthost] [info] eager extensions activated
+[2021-04-05 16:21:06.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-05 16:21:06.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-05 16:21:06.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-05 16:21:06.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-05 16:21:06.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-05 16:21:06.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-05 16:21:06.829] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-04-05 16:21:06.829] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19/client/out/extension
+[2021-04-05 16:21:06.898] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-04-05 16:21:06.910] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luke/.vscode/extensions/esbenp.prettier-vscode-6.3.1/dist/extension
+[2021-04-05 16:21:07.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-05 16:21:07.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-05 16:21:10.177] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-04-05 16:21:26.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-05 16:21:26.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-05 16:21:26.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-05 16:21:26.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-05 16:23:06.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-04-05 16:23:06.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-04-05 16:23:08.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-04-05 16:23:08.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/60/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-04-05 16:31:56.139] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-04-05 16:31:56.139] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:908:39
+[2021-04-05 16:31:56.139] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-04-05 16:31:56.139] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at runNextTicks (internal/process/task_queues.js:62:5)
+	at processImmediate (internal/timers.js:429:9)
+[2021-04-05 16:31:56.139] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-04-05 16:31:56.139] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:908:39
+[2021-04-05 16:31:56.140] [exthost] [error] [Angular.ng-template] provider FAILED
+[2021-04-05 16:31:56.140] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2666:24)
+	at LanguageClient.handleFailedRequest (/home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:2656:28)
+	at /home/luke/.vscode/extensions/angular.ng-template-11.2.9/node_modules/vscode-languageclient/lib/common/client.js:908:39
+	at runNextTicks (internal/process/task_queues.js:62:5)
+	at processImmediate (internal/timers.js:429:9)
+[2021-04-05 16:32:41.106] [exthost] [info] extension host terminating: parent process 2566 does not exist anymore: kill ESRCH (code: ESRCH) (errno: ESRCH)
+[2021-04-05 16:32:42.147] [exthost] [info] exiting with code 0

@@ -1,0 +1,14 @@
+[2021-04-06 20:50:52.339] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-06 20:50:53.084] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2021-04-06 20:50:53.100] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-04-06 20:50:54.375] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script undefined
+[2021-04-06 20:50:56.511] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-04-06 20:50:56.988] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.b867380f-80bf-43f4-91d9-60448cca2764: eg2.vscode-npm-script
+[2021-04-06 20:50:57.042] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/eg2.vscode-npm-script-0.3.19
+[2021-04-06 20:50:57.063] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
+[2021-04-06 20:50:57.198] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2021-04-06 20:51:00.359] [sharedprocess] [info] Extracted extension to /home/luke/.vscode/extensions/.093f17bd-cf90-4eff-84d0-373a03ea372e: esbenp.prettier-vscode
+[2021-04-06 20:51:00.391] [sharedprocess] [info] Renamed to /home/luke/.vscode/extensions/esbenp.prettier-vscode-6.3.2
+[2021-04-06 20:51:00.395] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-04-06 20:51:00.409] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-04-06 20:51:26.412] [sharedprocess] [info] Starting to clean up unused language packs.
